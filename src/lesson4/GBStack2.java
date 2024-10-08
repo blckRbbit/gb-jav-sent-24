@@ -1,5 +1,8 @@
 ﻿package lesson4;
 
+import java.util.Collections;
+import java.util.LinkedList;
+
 public class GBStack2<T> {
     private int[] arr;
     private int top;

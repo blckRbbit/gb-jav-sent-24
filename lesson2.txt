@@ -1,0 +1,7 @@
+.git
+.gitignore
+.idea
+java-lessons.iml
+out
+output.txt
+src
